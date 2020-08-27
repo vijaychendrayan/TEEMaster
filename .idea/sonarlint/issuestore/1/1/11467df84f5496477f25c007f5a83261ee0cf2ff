@@ -1,0 +1,170 @@
+
+G
+java:S2755"3Disable access to external entities in XML parsing.(²µŸš
+Z
+java:S2095"FUse try-with-resources or close this "Workbook" in a "finally" clause.(¦¾ŸÖ
+H
+java:S3740"/Provide the parametrized type for this generic.(¡ıÙ¡ùÿÿÿÿ
+a
+java:S1192"HDefine a constant instead of duplicating this literal "Control" 7 times.(—©¾”ÿÿÿÿÿ
+d
+java:S1192"KDefine a constant instead of duplicating this literal "IF success" 8 times.(ßªÉíüÿÿÿÿ
+l	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Îˆî
+l	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(·éÑì
+q	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(èöœüÿÿÿÿ
+N
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÏµ
+d	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÏµ
+<
+java:S1148"#Use a logger to log this exception.(Ÿø˜úÿÿÿÿ
+<
+java:S1148"#Use a logger to log this exception.(´¤¤¾úÿÿÿÿ
+Z
+java:S1854"FRemove this useless assignment to local variable "screenShotFilePath".(ôûÚµ
+U
+java:S1854"<Remove this useless assignment to local variable "tcStatus".(·Çæøşÿÿÿÿ
+V
+java:S1854"BRemove this useless assignment to local variable "returnStatusOS".(¹š¼
+U
+java:S1854"<Remove this useless assignment to local variable "tcStatus".(·Çæøşÿÿÿÿ
+V
+java:S1854"BRemove this useless assignment to local variable "returnStatusOS".(¹š¼
+l
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 223 to the 15 allowed.(¼Ìßøÿÿÿÿ
+
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¼Ìßøÿÿÿÿ
+‚
+java:S1130"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(¼Ìßøÿÿÿÿ
+Œ
+java:S1130"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(¼Ìßøÿÿÿÿ
+<
+java:S1659"(Declare "driverPath" on a separate line.(™éóô
+<
+java:S1659"(Declare "driverProp" on a separate line.(™éóô
+D
+java:S1659"0Declare "screenShotFilePath" on a separate line.(™éóô
+=
+java:S1659")Declare "xmlFilePath" on a separate line.(™éóô
+=
+java:S1659")Declare "xslFilePath" on a separate line.(™éóô
+>
+java:S1659"*Declare "htmlFilePath" on a separate line.(™éóô
+>
+java:S1659"*Declare "htmlFileName" on a separate line.(™éóô
+m
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğÇ
+r
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ«Ù¼ıÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(¨è­@
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¬¼‹É
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(× ûœşÿÿÿÿ
+^
+java:S2147"ECombine this catch with the one at line 584, which has the same body.(´¤¤¾úÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(î ÅØ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÃ´
+:
+java:S1075"&Remove this hard-coded path-delimiter.(²Ÿß
+:
+java:S1075"&Remove this hard-coded path-delimiter.(ÿÊáŠ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(éØÛğûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ğİÜ›øÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(éØÛğûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ğİÜ›øÿÿÿÿ
+?
+java:S1075"&Remove this hard-coded path-delimiter.(…¹úÿÿÿÿ
+?
+java:S1075"&Remove this hard-coded path-delimiter.(ú†Œ”ûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(’õºúÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ø«¯–ùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(«Ô úÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¸«ØÖ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(şµÑµşÿÿÿÿ
+K	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¡ö&
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(‘ºéÑûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¶–
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ™­Äùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¥ï“Îıÿÿÿÿ
+`
+java:S1858"L"getStringCellValue" returns a string, there's no need to call "toString()".(ığ×Ã
+K	java:S106"9Replace this use of System.out or System.err by a logger.(ÌİÓ!
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¸±ˆáúÿÿÿÿ
+e
+java:S1858"L"getStringCellValue" returns a string, there's no need to call "toString()".(É¤ˆÓÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‡–Êë
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ª»• úÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¦Øæ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ™­Äùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ßªÉíüÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(öÈÛ¡
+L	java:S106"9Replace this use of System.out or System.err by a logger.(èÛıÛ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(îšÑÇûÿÿÿÿ
+_
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(²ı…¦ûÿÿÿÿ
+^
+java:S2147"ECombine this catch with the one at line 601, which has the same body.(©œ¡ÿÿÿÿÿ
+^
+java:S2147"ECombine this catch with the one at line 601, which has the same body.(ˆá¥µûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+S
+java:S1854"?Remove this useless assignment to local variable "cmdFilePath".(Î«ßå
+‹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ˆşÊ
+}
+java:S1130"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(ˆşÊ
+€
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ˆşÊ
+‡
+java:S1130"sRemove the declaration of thrown exception 'java.lang.ArrayIndexOutOfBoundsException' which is a runtime exception.(ˆşÊ
+œ
+java:S1130"‡Remove the declaration of thrown exception 'javax.xml.parsers.ParserConfigurationException', as it cannot be thrown from method's body.(ˆşÊ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(™“éÑ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Õ¸Üóÿÿÿÿÿ
+F
+java:S1481"-Remove this unused "tcStatus" local variable.(·Çæøşÿÿÿÿ
+F
+java:S1481"-Remove this unused "tcStatus" local variable.(·Çæøşÿÿÿÿ
+K
+java:S1481"7Remove this unused "excelSheetTestCase" local variable.(¬º°‘
+A
+java:S1481"(Remove this unused "row" local variable.(øØğìøÿÿÿÿ
+K
+java:S1481"2Remove this unused "totalTestCase" local variable.(ú¥ğÓøÿÿÿÿ
+G
+java:S1481"3Remove this unused "returnStatusOS" local variable.(¼‚éø
+C
+java:S1481"/Remove this unused "driverType" local variable.(™éóô
+C
+java:S1481"/Remove this unused "driverPath" local variable.(™éóô
+C
+java:S1481"/Remove this unused "driverProp" local variable.(™éóô
+O	java:S125"<This block of commented-out lines of code should be removed.(‰–Ê¨
+T	java:S125"<This block of commented-out lines of code should be removed.(­øö¶ıÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(¡á íüÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ÆìÕÀ
+O	java:S125"<This block of commented-out lines of code should be removed.(éÿıƒ
+T	java:S125"<This block of commented-out lines of code should be removed.(£×õ¤ùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ÿÙùÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ƒÚ¼ú
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÛ 
+N	java:S125"<This block of commented-out lines of code should be removed.(÷§ø*
+T	java:S125"<This block of commented-out lines of code should be removed.(£×õ¤ùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ÿÙùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ÂåØşÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ƒÚ¼ú
+O	java:S125"<This block of commented-out lines of code should be removed.(ŸƒÖÙ
+T	java:S125"<This block of commented-out lines of code should be removed.(é½Ğ…úÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(ÖÛ 
+N	java:S125"<This block of commented-out lines of code should be removed.(÷§ø*
+T	java:S125"<This block of commented-out lines of code should be removed.(£×õ¤ùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(ÿÙùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(½÷¦„øÿÿÿÿ

@@ -1,0 +1,992 @@
+
+}
+java:S1192"_Define a constant instead of duplicating this literal "====>Attribute NOT Matched<===" 3 times.(´şöŞ8óÏÊ—³.
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(çüØ”úÿÿÿÿ8óÏÊ—³.
+p	java:S100Ë"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õõãúÿÿÿÿÿ8óÏÊ—³.
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ÑˆŸ›ıÿÿÿÿ8óÏÊ—³.
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(˜ òéùÿÿÿÿ8óÏÊ—³.
+H
+java:S5411¬"*Use the primitive boolean expression here.(îŞß8óÏÊ—³.
+V	java:S106ş"9Replace this use of System.out or System.err by a logger.(©ããø8óÏÊ—³.
+d	java:S899µ	"BDo something with the "boolean" value returned by "createNewFile".(ÒËŸıÿÿÿÿ8óÏÊ—³.
+R
+java:S3740¢"/Provide the parametrized type for this generic.(ËõÑ–ÿÿÿÿÿ8óÏÊ—³.
+R
+java:S3740„"/Provide the parametrized type for this generic.(—ÿÀĞşÿÿÿÿ8óÏÊ—³.
+V	java:S106¸"9Replace this use of System.out or System.err by a logger.(…§ÏÊ8óÏÊ—³.
+p	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñß•ëúÿÿÿÿ8óÏÊ—³.
+\
+java:S4973¸"9Use the "equals" method if value comparison was intended.(ëÓåÿÿÿÿÿ8óÏÊ—³.
+Y	java:S125÷"<This block of commented-out lines of code should be removed.(ˆ¡²¥8óÏÊ—³.
+Y	java:S125±"<This block of commented-out lines of code should be removed.(Ê¨æİ8óÏÊ—³.
+V	java:S106‡	"9Replace this use of System.out or System.err by a logger.(…¦Ü§8óÏÊ—³.
+a
+java:S1854Ê">Remove this useless assignment to local variable "currentURL".(ó›Öúùÿÿÿÿ8óÏÊ—³.
+š
+java:S1130Ÿ"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¬Ì¨øùÿÿÿÿ8óÏÊ—³.
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(Û¼¹Öÿÿÿÿÿ8óÏÊ—³.
+G
+java:S1659«"$Declare "height" on a separate line.(“·ñ˜şÿÿÿÿ8óÏÊ—³.
+O
+java:S1481d"-Remove this unused "mismatch" local variable.(€ÆäĞıÿÿÿÿ8óÏÊ—³.
+R
+java:S3740Û"/Provide the parametrized type for this generic.(‡Üéûÿÿÿÿ8óÏÊ—³.
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(¦²ÿÚşÿÿÿÿ8óÏÊ—³.
+A
+java:S5542‡"#Use secure mode and padding scheme.(Ñ×ò×8óÏÊ—³.
+S
+java:S1481Ü"0Remove this unused "classLoader" local variable.(¹ÌíÍÿÿÿÿÿ8óÏÊ—³.
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(áŠ°Í8óÏÊ—³.
+G
+java:S1659„"$Declare "upload" on a separate line.(ş„çøÿÿÿÿ8óÏÊ—³.
+R
+java:S3740Ø"/Provide the parametrized type for this generic.(‹ŠàÜûÿÿÿÿ8óÏÊ—³.
+m
+java:S3027Ï"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ìéãéûÿÿÿÿ8óÏÊ—³.
+H
+java:S2116Œ"%Use "Arrays.toString(array)" instead.(Úï‡˜üÿÿÿÿ8óÏÊ—³.
+Y	java:S125á"<This block of commented-out lines of code should be removed.(ª®ˆ¢8óÏÊ—³.
+K
+java:S3740I"/Provide the parametrized type for this generic.(¿ŠÂ8óÏÊ—³.
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ŞÔ±Ïıÿÿÿÿ8óÏÊ—³.
+[	java:S106ö	"9Replace this use of System.out or System.err by a logger.(×ãê”ùÿÿÿÿ8óÏÊ—³.
+Y	java:S125ı"<This block of commented-out lines of code should be removed.(Î†®8óÏÊ—³.
+j
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Á›•œ8óÏÊ—³.
+w
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍóğØ8óÏÊ—³.
+^	java:S125×"<This block of commented-out lines of code should be removed.(é€½üÿÿÿÿ8óÏÊ—³.
+^	java:S125«"<This block of commented-out lines of code should be removed.(èËõãúÿÿÿÿ8óÏÊ—³.
+Y	java:S125Ë"<This block of commented-out lines of code should be removed.(¼›äÎ8óÏÊ—³.
+c
+java:S1854Ê"ERemove this useless assignment to local variable "summaryTestCaseID".(½ñ­À8óÏÊ—³.
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(ã´üúÿÿÿÿ8óÏÊ—³.
+^	java:S125Û"<This block of commented-out lines of code should be removed.(å„Ã¸ûÿÿÿÿ8óÏÊ—³.
+}
+java:S1104N"[Make errorStringLong a static final constant or non-public and provide accessors if needed.(æ®ÚÇùÿÿÿÿ8óÏÊ—³.
+H
+java:S1659Ä"*Declare "sftpPassword" on a separate line.(›éÇµ8óÏÊ—³.
+R
+java:S3740Ô"/Provide the parametrized type for this generic.(®‘£ÿÿÿÿÿ8óÏÊ—³.
+R
+java:S3740"/Provide the parametrized type for this generic.(¬÷ì÷úÿÿÿÿ8óÏÊ—³.
+H
+java:S2116§"%Use "Arrays.toString(array)" instead.(·İ€–ùÿÿÿÿ8óÏÊ—³.
+M
+java:S3740Ú"/Provide the parametrized type for this generic.(¬º«´8óÏÊ—³.
+H
+java:S1659Ì"*Declare "testFilePath" on a separate line.(ö•í«8óÏÊ—³.
+M
+java:S3740»"/Provide the parametrized type for this generic.(ø÷Ä8óÏÊ—³.
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(ßï¥Åúÿÿÿÿ8óÏÊ—³.
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(¨º†Æşÿÿÿÿ8óÏÊ—³.
+Q
+java:S2755ì	"3Disable access to external entities in XML parsing.(ğ¨ºî8óÏÊ—³.
+Y	java:S125‚"<This block of commented-out lines of code should be removed.(€´¨É8óÏÊ—³.
+f
+java:S1192ø"HDefine a constant instead of duplicating this literal "wd:type" 4 times.(´œÆÙ8óÏÊ—³.
+V	java:S106Ë"9Replace this use of System.out or System.err by a logger.(³×Â•8óÏÊ—³.
+R
+java:S3740ä"/Provide the parametrized type for this generic.(©£‡ªÿÿÿÿÿ8óÏÊ—³.
+e
+java:S1854Æ"BRemove this useless assignment to local variable "autoDateFormat".(úÆ·ñüÿÿÿÿ8óÏÊ—³.
+[	java:S106à"9Replace this use of System.out or System.err by a logger.(‰‰°•şÿÿÿÿ8óÏÊ—³.
+V	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Ï‚€8óÏÊ—³.
+c	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(»à’¬8óÏÊ—³.
+d	java:S899©
+"BDo something with the "boolean" value returned by "createNewFile".(ö†òŸıÿÿÿÿ8óÏÊ—³.
+N
+java:S1172Ø"+Remove this unused method parameter "dict".(‹ŠàÜûÿÿÿÿ8óÏÊ—³.
+^	java:S125ª"<This block of commented-out lines of code should be removed.(ÛÔÕûÿÿÿÿ8óÏÊ—³.
+V	java:S106İ"9Replace this use of System.out or System.err by a logger.(÷î´ğ8óÏÊ—³.
+M
+java:S3740¤"/Provide the parametrized type for this generic.(‘è„Ê8óÏÊ—³.
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(ø¹Ää8óÏÊ—³.
+p
+java:S2095s"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(°§¿ƒøÿÿÿÿ8óÏÊ—³.
+[	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(â°òÍùÿÿÿÿ8óÏÊ—³.
+w
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍóğØ8óÏÊ—³.
+w
+java:S2293˜
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍóğØ8óÏÊ—³.
+O
+java:S1481”",Remove this unused "process" local variable.(¹—øÿÿÿÿ8óÏÊ—³.
+a
+java:S1854§">Remove this useless assignment to local variable "currentURL".(ó›Öúùÿÿÿÿ8óÏÊ—³.
+G
+java:S1659Ì")Declare "resFilePath" on a separate line.(ö•í«8óÏÊ—³.
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(•­°Ó8óÏÊ—³.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ªŸåŞşÿÿÿÿ8óÏÊ—³.
+d
+java:S2147Á"FCombine this catch with the one at line 1086, which has the same body.(úõ•Ç8óÏÊ—³.
+K
+java:S4425µ"(Use String.format( "%02X", ...) instead.(÷ÁáÁşÿÿÿÿ8óÏÊ—³.
+€
+java:S1192¦"]Define a constant instead of duplicating this literal "Element not found exception" 15 times.(¤Ğš™şÿÿÿÿ8óÏÊ—³.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(á¥ì¸8óÏÊ—³.
+K
+java:S1125Î"(Remove the literal "true" boolean value.(ü›Çûÿÿÿÿ8óÏÊ—³.
+Y	java:S125†"<This block of commented-out lines of code should be removed.(ÿëçÉ8óÏÊ—³.
+^	java:S125ø"<This block of commented-out lines of code should be removed.(«µ¢¸ıÿÿÿÿ8óÏÊ—³.
+„
+java:S2178¾"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ïš¡Ü8óÏÊ—³.
+^	java:S125—"<This block of commented-out lines of code should be removed.(‰ˆå–øÿÿÿÿ8óÏÊ—³.
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(ï¹µõûÿÿÿÿ8óÏÊ—³.
+Y	java:S125³"<This block of commented-out lines of code should be removed.(â†©Ñ8óÏÊ—³.
+n	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õª˜Ü8óÏÊ—³.
+w
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼”Ê©8óÏÊ—³.
+M
+java:S1066î"/Merge this if statement with the enclosing one.(Çì‰ê8óÏÊ—³.
+k
+java:S2259ı"HA "NullPointerException" could be thrown; "webElement" is nullable here.(úÛÂ¡üÿÿÿÿ8óÏÊ—³.
+D
+java:S1659Ä"&Declare "sftpUser" on a separate line.(›éÇµ8óÏÊ—³.
+…
+java:S1488š"bImmediately return this expression instead of assigning it to the temporary variable "encodedKey".(ñæÃıÿÿÿÿ8óÏÊ—³.
+j
+java:S2259è"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(Ò­»…8óÏÊ—³.
+n	java:S117î
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¸ƒ‰8óÏÊ—³.
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ĞáíÈ8óÏÊ—³.
+V	java:S106ï"9Replace this use of System.out or System.err by a logger.(ÒÇ®Ò8óÏÊ—³.
+e
+java:S2259¬"GA "NullPointerException" could be thrown; "domainURL" is nullable here.(«É8óÏÊ—³.
+I
+java:S1659Â"&Declare "currDate" on a separate line.(ùæïµıÿÿÿÿ8óÏÊ—³.
+I
+java:S1075é"&Remove this hard-coded path-delimiter.(üáš¹ùÿÿÿÿ8óÏÊ—³.
+V	java:S106Û"9Replace this use of System.out or System.err by a logger.(Ä¥Æí8óÏÊ—³.
+i
+java:S2095w"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÎËÓŸ8óÏÊ—³.
+G
+java:S1659ƒ"$Declare "source" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(ø¥×ü8óÏÊ—³.
+R
+java:S3740½"/Provide the parametrized type for this generic.(®š‡£øÿÿÿÿ8óÏÊ—³.
+[	java:S106¢
+"9Replace this use of System.out or System.err by a logger.(ğŸëéúÿÿÿÿ8óÏÊ—³.
+Y	java:S125Ø"<This block of commented-out lines of code should be removed.(ÿ×æ8óÏÊ—³.
+^	java:S125­"<This block of commented-out lines of code should be removed.(÷şŒ¹üÿÿÿÿ8óÏÊ—³.
+^	java:S125¨"<This block of commented-out lines of code should be removed.(ï¿éöúÿÿÿÿ8óÏÊ—³.
+F
+java:S1659÷
+"#Declare "data1" on a separate line.(œ•Èüÿÿÿÿ8óÏÊ—³.
+R
+java:S3740¢"/Provide the parametrized type for this generic.(×¦ßÜúÿÿÿÿ8óÏÊ—³.
+]	java:S125c"<This block of commented-out lines of code should be removed.(ë¤üºÿÿÿÿÿ8óÏÊ—³.
+j	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šé‹Å8óÏÊ—³.
+F
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+p	java:S100’
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µç¨ úÿÿÿÿ8óÏÊ—³.
+F
+java:S1148Š
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+‚
+java:S1149Ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒŒùÿÿÿÿ8óÏÊ—³.
+^	java:S125"<This block of commented-out lines of code should be removed.(€Ö¥ûÿÿÿÿ8óÏÊ—³.
+I
+java:S1075÷"&Remove this hard-coded path-delimiter.(™éˆûÿÿÿÿ8óÏÊ—³.
+R
+java:S3740É"/Provide the parametrized type for this generic.(„öÏ„üÿÿÿÿ8óÏÊ—³.
+c	java:S112Œ"FDefine and throw a dedicated exception instead of using a generic one.(÷–“—8óÏÊ—³.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(î²µÿùÿÿÿÿ8óÏÊ—³.
+k
+java:S2259Â"HA "NullPointerException" could be thrown; "webElement" is nullable here.(–¯¹‰ûÿÿÿÿ8óÏÊ—³.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¨ÎÌèùÿÿÿÿ8óÏÊ—³.
+Y	java:S125–"<This block of commented-out lines of code should be removed.(ÏşÁü8óÏÊ—³.
+h	java:S112¡	"FDefine and throw a dedicated exception instead of using a generic one.(™şğİıÿÿÿÿ8óÏÊ—³.
+L
+java:S3740~"/Provide the parametrized type for this generic.(İêˆæ8óÏÊ—³.
+G
+java:S1659µ")Declare "resFilePath" on a separate line.(‹©¶§8óÏÊ—³.
+}
+java:S1149³"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¾Î›Š8óÏÊ—³.
+|
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔˆÃ³ÿÿÿÿÿ8óÏÊ—³.
+d
+java:S2147Ï	"FCombine this catch with the one at line 1228, which has the same body.(úõ•Ç8óÏÊ—³.
+^	java:S125š"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8óÏÊ—³.
+h
+java:S2259"EA "NullPointerException" could be thrown; "element" is nullable here.(¬–¾ûÿÿÿÿÿ8óÏÊ—³.
+u
+java:S1192İ"WDefine a constant instead of duplicating this literal "Element is not enabled" 3 times.(†ó®´8óÏÊ—³.
+c	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(¥¹î×8óÏÊ—³.
+@
+java:S1659Ì""Declare "Attr" on a separate line.(ö•í«8óÏÊ—³.
+R
+java:S1066Ñ"/Merge this if statement with the enclosing one.(¿Àòùÿÿÿÿ8óÏÊ—³.
+O
+java:S1153â"1Directly append the argument of String.valueOf().(ØÌÈÖ8óÏÊ—³.
+d
+java:S2142Ë"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8óÏÊ—³.
+{
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(›°âÏşÿÿÿÿ8óÏÊ—³.
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(’­ã–8óÏÊ—³.
+W
+java:S4973€"9Use the "equals" method if value comparison was intended.(æèÊı8óÏÊ—³.
+?
+java:S1659Ì"!Declare "Tag" on a separate line.(ö•í«8óÏÊ—³.
+J
+java:S1659Ã",Declare "intEventStatus" on a separate line.(à–Ú§8óÏÊ—³.
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(üËÀ‡8óÏÊ—³.
+q
+java:S2095¬
+"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸³•¶øÿÿÿÿ8óÏÊ—³.
+[	java:S106ú"9Replace this use of System.out or System.err by a logger.(òğ£±şÿÿÿÿ8óÏÊ—³.
+R
+java:S3740ÿ"/Provide the parametrized type for this generic.(ÍØØ³úÿÿÿÿ8óÏÊ—³.
+[	java:S106œ"9Replace this use of System.out or System.err by a logger.(—Ôİ­úÿÿÿÿ8óÏÊ—³.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Éş£¨ùÿÿÿÿ8óÏÊ—³.
+K
+java:S1481¥
+"-Remove this unused "nextLine" local variable.(Œ£Ğù8óÏÊ—³.
+^	java:S125×"<This block of commented-out lines of code should be removed.(ÛÔÕûÿÿÿÿ8óÏÊ—³.
+z
+java:S1192í"WDefine a constant instead of duplicating this literal "Response SOAP Message:" 3 times.(Ãıåúÿÿÿÿ8óÏÊ—³.
+M
+java:S1066ø"/Merge this if statement with the enclosing one.(¨Áø8óÏÊ—³.
+K
+java:S1659²"(Declare "intDetails" on a separate line.(È‡ùëÿÿÿÿÿ8óÏÊ—³.
+M
+java:S3740ê"/Provide the parametrized type for this generic.(©÷¹Û8óÏÊ—³.
+R
+java:S3740±"/Provide the parametrized type for this generic.(äº»›ÿÿÿÿÿ8óÏÊ—³.
+•
+java:S1130b"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Šé‹Å8óÏÊ—³.
+p	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¹ÿÒıÿÿÿÿ8óÏÊ—³.
+I
+java:S1172¤"+Remove this unused method parameter "dict".(‘è„Ê8óÏÊ—³.
+[	java:S106Ö"9Replace this use of System.out or System.err by a logger.(˜”—ùÿÿÿÿ8óÏÊ—³.
+u
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ü¹ÿÒıÿÿÿÿ8óÏÊ—³.
+Y	java:S125ä"<This block of commented-out lines of code should be removed.(“²°Ø8óÏÊ—³.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(üËßÚÿÿÿÿÿ8óÏÊ—³.
+O
+java:S1481Æ",Remove this unused "srcFile" local variable.(²¯üÿÿÿÿ8óÏÊ—³.
+‚
+java:S1149¦"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ä½Œ‚øÿÿÿÿ8óÏÊ—³.
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(ã€ß8óÏÊ—³.
+^	java:S125Ñ	"<This block of commented-out lines of code should be removed.(¼„™İúÿÿÿÿ8óÏÊ—³.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(à–¥üÿÿÿÿ8óÏÊ—³.
+Y	java:S125"<This block of commented-out lines of code should be removed.(û×Èº8óÏÊ—³.
+R
+java:S3740û"/Provide the parametrized type for this generic.(¿¶–ºÿÿÿÿÿ8óÏÊ—³.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8óÏÊ—³.
+k	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œçª÷8óÏÊ—³.
+G
+java:S1659“
+")Declare "resFilePath" on a separate line.(Ï´ÇÕ8óÏÊ—³.
+R
+java:S1066’"/Merge this if statement with the enclosing one.(Øüƒíùÿÿÿÿ8óÏÊ—³.
+L
+java:S1659ƒ")Declare "destination" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+K
+java:S1481Ë"(Remove this unused "str" local variable.(¸ùº§úÿÿÿÿ8óÏÊ—³.
+X
+java:S1141¯"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8óÏÊ—³.
+J
+java:S1659Ä",Declare "sftpIDFilePath" on a separate line.(›éÇµ8óÏÊ—³.
+B
+java:S1659“
+"$Declare "reqXML" on a separate line.(Ï´ÇÕ8óÏÊ—³.
+R
+java:S3740¢"/Provide the parametrized type for this generic.(×¦ßÜúÿÿÿÿ8óÏÊ—³.
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(ºœ´å8óÏÊ—³.
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(ë–«ˆûÿÿÿÿ8óÏÊ—³.
+F
+java:S1148—"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(ÆãÖ÷8óÏÊ—³.
+s	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ğ°úÿÿÿÿ8óÏÊ—³.
+M
+java:S3740Ì"/Provide the parametrized type for this generic.(‰ûß®8óÏÊ—³.
+U	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ºì¿8óÏÊ—³.
+]
+java:S1854Ë":Remove this useless assignment to local variable "reqXML".(‹ÌÅıÿÿÿÿ8óÏÊ—³.
+R
+java:S3740Ë"/Provide the parametrized type for this generic.(õõãúÿÿÿÿÿ8óÏÊ—³.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(ñÀïßüÿÿÿÿ8óÏÊ—³.
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(®á’ºüÿÿÿÿ8óÏÊ—³.
+M
+java:S3740©"/Provide the parametrized type for this generic.(Ò´ì­8óÏÊ—³.
+K
+java:S1481“
+"-Remove this unused "filePath" local variable.(Ï´ÇÕ8óÏÊ—³.
+L
+java:S1659©	")Declare "intFileName" on a separate line.(¯ÂƒŠûÿÿÿÿ8óÏÊ—³.
+^	java:S125­"<This block of commented-out lines of code should be removed.(ñš×øşÿÿÿÿ8óÏÊ—³.
+w
+java:S2293²"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïÎ¶Ü8óÏÊ—³.
+M
+java:S1066Ğ"/Merge this if statement with the enclosing one.(Çì‰ê8óÏÊ—³.
+X	java:S125a"<This block of commented-out lines of code should be removed.(‰ÁğÅ8óÏÊ—³.
+K
+java:S1659©	"(Declare "intDetails" on a separate line.(¯ÂƒŠûÿÿÿÿ8óÏÊ—³.
+d
+java:S1192K"GDefine a constant instead of duplicating this literal "active" 4 times.(Øş·†8óÏÊ—³.
+G
+java:S1659ò"$Declare "upload" on a separate line.(ÑÎË¬ÿÿÿÿÿ8óÏÊ—³.
+d	java:S899é
+"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8óÏÊ—³.
+[	java:S106¼"9Replace this use of System.out or System.err by a logger.(ˆ¢·ôÿÿÿÿÿ8óÏÊ—³.
+h	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(®Ãµıÿÿÿÿ8óÏÊ—³.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(Úï‡˜üÿÿÿÿ8óÏÊ—³.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ü½ŞŸ8óÏÊ—³.
+f
+java:S1854Ë"HRemove this useless assignment to local variable "summaryTestCaseDescr".(¯Éï¢8óÏÊ—³.
+
+java:S1192î"^Define a constant instead of duplicating this literal "====>Element NOT Selected<===" 3 times.(ç™øëıÿÿÿÿ8óÏÊ—³.
+M
+java:S3740…"/Provide the parametrized type for this generic.(Ïù¹÷8óÏÊ—³.
+—
+java:S1130¸"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(š†°8óÏÊ—³.
+t
+java:S1450Q"XRemove the "colAction" field and declare it as a local variable in the relevant methods.(• ¹*8óÏÊ—³.
+V	java:S106Ê"9Replace this use of System.out or System.err by a logger.(÷‚º€8óÏÊ—³.
+V	java:S106ú	"9Replace this use of System.out or System.err by a logger.(©ããø8óÏÊ—³.
+G
+java:S1659ñ"$Declare "source" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+|
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸìŒŸıÿÿÿÿ8óÏÊ—³.
+Y	java:S125†"<This block of commented-out lines of code should be removed.(·ê¾Ö8óÏÊ—³.
+^	java:S125½
+"<This block of commented-out lines of code should be removed.(¥Ûëşÿÿÿÿ8óÏÊ—³.
+i
+java:S1192K"LDefine a constant instead of duplicating this literal "screenShot" 17 times.(Øş·†8óÏÊ—³.
+D
+java:S1172"&Remove these unused method parameters.(şıËÁ8óÏÊ—³.
+B
+java:S1659Ì"$Declare "reqXML" on a separate line.(ö•í«8óÏÊ—³.
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8óÏÊ—³.
+Q
+java:S1659½".Declare "xslCrawlFilePath" on a separate line.(Íì§ªşÿÿÿÿ8óÏÊ—³.
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Úï‡˜üÿÿÿÿ8óÏÊ—³.
+[	java:S106å"9Replace this use of System.out or System.err by a logger.(Ãûñ•ûÿÿÿÿ8óÏÊ—³.
+z
+java:S1450P"XRemove the "colDriver" field and declare it as a local variable in the relevant methods.(å†ãÖÿÿÿÿÿ8óÏÊ—³.
+?
+java:S1116û"Remove this empty statement.(Åñ­õşÿÿÿÿ8óÏÊ—³.
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(¿ş·šıÿÿÿÿ8óÏÊ—³.
+M
+java:S3740©"/Provide the parametrized type for this generic.(Ò´ì­8óÏÊ—³.
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(¡ªÊ¸ÿÿÿÿÿ8óÏÊ—³.
+d
+java:S1854¡"ARemove this useless assignment to local variable "shortErrorMsg".(½Û‘¡ûÿÿÿÿ8óÏÊ—³.
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(îçüÎ8óÏÊ—³.
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(ç™øëıÿÿÿÿ8óÏÊ—³.
+I
+java:S1075ù"&Remove this hard-coded path-delimiter.(©ˆ¾Êøÿÿÿÿ8óÏÊ—³.
+^
+java:S1858É"@"format" returns a string, there's no need to call "toString()".(¬ôØ›8óÏÊ—³.
+M
+java:S3740ğ"/Provide the parametrized type for this generic.(…ã·º8óÏÊ—³.
+J
+java:S1659Ì",Declare "intEventStatus" on a separate line.(ö•í«8óÏÊ—³.
+l
+java:S1192³"NDefine a constant instead of duplicating this literal "ExecutionTime" 3 times.(–šİò8óÏÊ—³.
+?
+java:S1643ú"Use a StringBuilder instead.(µ³ûÿÿÿÿ8óÏÊ—³.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(‚İëüÿÿÿÿ8óÏÊ—³.
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(«¥¢ÿÿÿÿÿ8óÏÊ—³.
+V	java:S106²
+"9Replace this use of System.out or System.err by a logger.(’ÿáÌ8óÏÊ—³.
+V	java:S106ú
+"9Replace this use of System.out or System.err by a logger.(Ğ›¨8óÏÊ—³.
+[	java:S106¶"9Replace this use of System.out or System.err by a logger.(²àéÁüÿÿÿÿ8óÏÊ—³.
+š
+java:S1130–"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Å¢Åôúÿÿÿÿ8óÏÊ—³.
+V	java:S106”	"9Replace this use of System.out or System.err by a logger.(¥ÿ‚8óÏÊ—³.
+M
+java:S1066€"/Merge this if statement with the enclosing one.(¨Áø8óÏÊ—³.
+u
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Šúé¼ûÿÿÿÿ8óÏÊ—³.
+]	java:S125!"<This block of commented-out lines of code should be removed.( Í˜ûÿÿÿÿ8óÏÊ—³.
+L
+java:S3740¼"/Provide the parametrized type for this generic.(ì·Ú:8óÏÊ—³.
+„
+java:S2178¾"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ïš¡Ü8óÏÊ—³.
+R
+java:S3740‹"/Provide the parametrized type for this generic.(Ó™ú÷şÿÿÿÿ8óÏÊ—³.
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(Ãıåúÿÿÿÿ8óÏÊ—³.
+R
+java:S3740Ê"/Provide the parametrized type for this generic.(æ±ÍÔıÿÿÿÿ8óÏÊ—³.
+D
+java:S1075Ô"&Remove this hard-coded path-delimiter.(šæà„8óÏÊ—³.
+T
+java:S1659Â"1Declare "webServGetIntStatus" on a separate line.(ùæïµıÿÿÿÿ8óÏÊ—³.
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(±¶‘ˆşÿÿÿÿ8óÏÊ—³.
+Y	java:S125 "<This block of commented-out lines of code should be removed.(âÓß‰8óÏÊ—³.
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(‰½Ñ8óÏÊ—³.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Á¨Å™8óÏÊ—³.
+c	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(œçª÷8óÏÊ—³.
+V	java:S106È"9Replace this use of System.out or System.err by a logger.(¥Ê§8óÏÊ—³.
+E
+java:S1659ƒ""Declare "host" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+V	java:S106Ä"9Replace this use of System.out or System.err by a logger.(àƒÅ»8óÏÊ—³.
+R
+java:S1066à"/Merge this if statement with the enclosing one.(·ÎĞúøÿÿÿÿ8óÏÊ—³.
+[	java:S106Ş"9Replace this use of System.out or System.err by a logger.(–¯¹‰ûÿÿÿÿ8óÏÊ—³.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(Æÿ‚Æ8óÏÊ—³.
+M
+java:S1066"/Merge this if statement with the enclosing one.(íÑå8óÏÊ—³.
+i
+java:S1192ş"FDefine a constant instead of duplicating this literal " and " 3 times.(¼²è¯şÿÿÿÿ8óÏÊ—³.
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(ñÀïßüÿÿÿÿ8óÏÊ—³.
+l
+java:S2095¸	"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(•³¾±8óÏÊ—³.
+c	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(ĞˆÉè8óÏÊ—³.
+h	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(™şğİıÿÿÿÿ8óÏÊ—³.
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(ãÑĞ›8óÏÊ—³.
+M
+java:S3740"/Provide the parametrized type for this generic.(³œ˜ˆ8óÏÊ—³.
+[	java:S106±
+"9Replace this use of System.out or System.err by a logger.(Ãıåúÿÿÿÿ8óÏÊ—³.
+D
+java:S1659Ì"&Declare "filePath" on a separate line.(ö•í«8óÏÊ—³.
+V	java:S106ä
+"9Replace this use of System.out or System.err by a logger.(¡İ—Æ8óÏÊ—³.
+[	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Ş³éúÿÿÿÿ8óÏÊ—³.
+C
+java:S1659Ì"%Declare "attrVal" on a separate line.(ö•í«8óÏÊ—³.
+Y	java:S125î"<This block of commented-out lines of code should be removed.(î‹ÍÁ8óÏÊ—³.
+^	java:S125Ù"<This block of commented-out lines of code should be removed.(Å·½·øÿÿÿÿ8óÏÊ—³.
+R
+java:S3740œ"/Provide the parametrized type for this generic.(©˜›Šûÿÿÿÿ8óÏÊ—³.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(ğÙ¿ûÿÿÿÿ8óÏÊ—³.
+B
+java:S1659 "$Declare "result" on a separate line.(–‰ï8óÏÊ—³.
+{
+java:S1192Ó"]Define a constant instead of duplicating this literal "====>Element NOT Enabled<===" 3 times.(«–»°8óÏÊ—³.
+[	java:S106€	"9Replace this use of System.out or System.err by a logger.(®á’ºüÿÿÿÿ8óÏÊ—³.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(˜“›É8óÏÊ—³.
+d
+java:S1192K"GDefine a constant instead of duplicating this literal "action" 7 times.(Øş·†8óÏÊ—³.
+„
+java:S2178¾"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ïš¡Ü8óÏÊ—³.
+e
+java:S1192¯"GDefine a constant instead of duplicating this literal "Result" 3 times.(¶¨Ñ8óÏÊ—³.
+F
+java:S1148Ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+s	java:S117ó
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú“»öÿÿÿÿÿ8óÏÊ—³.
+R
+java:S3740‚"/Provide the parametrized type for this generic.(ñß•ëúÿÿÿÿ8óÏÊ—³.
+V	java:S106ˆ	"9Replace this use of System.out or System.err by a logger.(«µÌÙ8óÏÊ—³.
+V	java:S106	"9Replace this use of System.out or System.err by a logger.(’ÿáÌ8óÏÊ—³.
+Z
+java:S1854¥
+"<Remove this useless assignment to local variable "nextLine".(Œ£Ğù8óÏÊ—³.
+F
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+R
+java:S1066‰"/Merge this if statement with the enclosing one.(½Ÿùÿÿÿÿ8óÏÊ—³.
+X
+java:S1141¿	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8óÏÊ—³.
+v
+java:S3776Ç"SRefactor this method to reduce its Cognitive Complexity from 144 to the 15 allowed.(¬éµ®ÿÿÿÿÿ8óÏÊ—³.
+F
+java:S1148è"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+]	java:S125L"<This block of commented-out lines of code should be removed.(¨üŞÍúÿÿÿÿ8óÏÊ—³.
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(˜ òéùÿÿÿÿ8óÏÊ—³.
+^	java:S125±"<This block of commented-out lines of code should be removed.(ùîİĞùÿÿÿÿ8óÏÊ—³.
+M
+java:S3740è"/Provide the parametrized type for this generic.(‰–¢8óÏÊ—³.
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(åç«Ğşÿÿÿÿ8óÏÊ—³.
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(¥ÙÚåúÿÿÿÿ8óÏÊ—³.
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(›¨ÿ„ûÿÿÿÿ8óÏÊ—³.
+Y	java:S125°"<This block of commented-out lines of code should be removed.(ÄÍÉó8óÏÊ—³.
+H
+java:S2116"%Use "Arrays.toString(array)" instead.(·İ€–ùÿÿÿÿ8óÏÊ—³.
+R
+java:S3740Ø"/Provide the parametrized type for this generic.(ß¹€¿ÿÿÿÿÿ8óÏÊ—³.
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ŒéŞı8óÏÊ—³.
+F
+java:S1659Ì"(Declare "intEventID" on a separate line.(ö•í«8óÏÊ—³.
+R
+java:S3740Õ"/Provide the parametrized type for this generic.(Ñöà™üÿÿÿÿ8óÏÊ—³.
+n
+java:S1192Ÿ"KDefine a constant instead of duplicating this literal "Processing" 3 times.(Œò…Ãøÿÿÿÿ8óÏÊ—³.
+^
+java:S1854¤";Remove this useless assignment to local variable "hostUrl".(”å¯’ÿÿÿÿÿ8óÏÊ—³.
+M
+java:S3740õ"/Provide the parametrized type for this generic.(§Ë™Ò8óÏÊ—³.
+I
+java:S1659ƒ"&Declare "password" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+^	java:S125Í"<This block of commented-out lines of code should be removed.(ôçˆ¿ıÿÿÿÿ8óÏÊ—³.
+V	java:S106´"9Replace this use of System.out or System.err by a logger.(ÂğÊŠ8óÏÊ—³.
+P
+java:S1481Â"-Remove this unused "filePath" local variable.(ùæïµıÿÿÿÿ8óÏÊ—³.
+j
+java:S1192K"MDefine a constant instead of duplicating this literal "prcsSeqDescr" 3 times.(Øş·†8óÏÊ—³.
+£
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’÷øœùÿÿÿÿ8óÏÊ—³.
+|
+java:S2293¯	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸìŒŸıÿÿÿÿ8óÏÊ—³.
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(›¨ÿ„ûÿÿÿÿ8óÏÊ—³.
+y
+java:S1488ı"[Immediately return this expression instead of assigning it to the temporary variable "ret".(—Õïí8óÏÊ—³.
+V	java:S106à"9Replace this use of System.out or System.err by a logger.(Ü…”8óÏÊ—³.
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(èÅÖÔıÿÿÿÿ8óÏÊ—³.
+h
+java:S1192K"KDefine a constant instead of duplicating this literal "parameter" 30 times.(Øş·†8óÏÊ—³.
+t
+java:S1104M"WMake errorString a static final constant or non-public and provide accessors if needed.(§’˜Š8óÏÊ—³.
+r
+java:S1450R"VRemove the "colType" field and declare it as a local variable in the relevant methods.(Ú«Ğ(8óÏÊ—³.
+R
+java:S3740Í"/Provide the parametrized type for this generic.(§ı·©şÿÿÿÿ8óÏÊ—³.
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(šÎİË8óÏÊ—³.
+Y	java:S125ñ"<This block of commented-out lines of code should be removed.(ÄŒ¹‰8óÏÊ—³.
+h
+java:S1192Ñ"JDefine a constant instead of duplicating this literal "PageTitle" 3 times.(‡ÈÙ”8óÏÊ—³.
+W
+java:S4973õ"9Use the "equals" method if value comparison was intended.(æèÊı8óÏÊ—³.
+|
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğö¸¹üÿÿÿÿ8óÏÊ—³.
+R
+java:S1066©"/Merge this if statement with the enclosing one.(ûÿ¨ñùÿÿÿÿ8óÏÊ—³.
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(³×Â•8óÏÊ—³.
+R
+java:S3740Ì"/Provide the parametrized type for this generic.(ÌáÖ€ıÿÿÿÿ8óÏÊ—³.
+F
+java:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+F
+java:S1148¿"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+[	java:S106×	"9Replace this use of System.out or System.err by a logger.(·Šº«ùÿÿÿÿ8óÏÊ—³.
+š
+java:S1130„"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(—ÿÀĞşÿÿÿÿ8óÏÊ—³.
+W
+java:S4973ı	"9Use the "equals" method if value comparison was intended.(åº¶Î8óÏÊ—³.
+b
+java:S1858‘"?"group" returns a string, there's no need to call "toString()".(üËßÚÿÿÿÿÿ8óÏÊ—³.
+~
+java:S1192¹"[Define a constant instead of duplicating this literal "====>Title NOT Matched<===" 3 times.(èÅÖÔıÿÿÿÿ8óÏÊ—³.
+V	java:S106é"9Replace this use of System.out or System.err by a logger.(Û¶ØË8óÏÊ—³.
+n	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö•í«8óÏÊ—³.
+[	java:S106å"9Replace this use of System.out or System.err by a logger.(ã´üúÿÿÿÿ8óÏÊ—³.
+^	java:S125ã"<This block of commented-out lines of code should be removed.(Î‚„¨øÿÿÿÿ8óÏÊ—³.
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(øùò·8óÏÊ—³.
+R
+java:S3740è"/Provide the parametrized type for this generic.(­ãÊşÿÿÿÿ8óÏÊ—³.
+V	java:S106î"9Replace this use of System.out or System.err by a logger.(’ÿáÌ8óÏÊ—³.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÿ‚8óÏÊ—³.
+k
+java:S2259Ş"HA "NullPointerException" could be thrown; "webElement" is nullable here.(–¯¹‰ûÿÿÿÿ8óÏÊ—³.
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(é„©ëüÿÿÿÿ8óÏÊ—³.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(×Ş‹ô8óÏÊ—³.
+d	java:S899¾"BDo something with the "boolean" value returned by "createNewFile".(ÒËŸıÿÿÿÿ8óÏÊ—³.
+V	java:S106ù"9Replace this use of System.out or System.err by a logger.(ğèö–8óÏÊ—³.
+c	java:S899p"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8óÏÊ—³.
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(Ú‘Ûë8óÏÊ—³.
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(ÂĞ‹´üÿÿÿÿ8óÏÊ—³.
+^	java:S125§"<This block of commented-out lines of code should be removed.(—œü¶øÿÿÿÿ8óÏÊ—³.
+?
+java:S1643ÿ	"Use a StringBuilder instead.(úª âùÿÿÿÿ8óÏÊ—³.
+Z
+java:S1854å"<Remove this useless assignment to local variable "nextLine".(Œ£Ğù8óÏÊ—³.
+r
+java:S1192ò"TDefine a constant instead of duplicating this literal "yyyy_MM_dd_HH_mm_ss" 4 times.(ıÄÉà8óÏÊ—³.
+o
+java:S2095l"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(èÔÂ¢şÿÿÿÿ8óÏÊ—³.
+j
+java:S1192ù"LDefine a constant instead of duplicating this literal " Status is " 3 times.(ğèö–8óÏÊ—³.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(ÌáêŸ8óÏÊ—³.
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(Ûİ°8óÏÊ—³.
+U	java:S106±"9Replace this use of System.out or System.err by a logger.(ó€·8óÏÊ—³.
+^	java:S125æ"<This block of commented-out lines of code should be removed.(ªŸåŞşÿÿÿÿ8óÏÊ—³.
+K
+java:S1659Â"(Declare "wdFilePath" on a separate line.(ùæïµıÿÿÿÿ8óÏÊ—³.
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(ŞÔ±Ïıÿÿÿÿ8óÏÊ—³.
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(¼ÿŸÈşÿÿÿÿ8óÏÊ—³.
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(ÜÜ×ã8óÏÊ—³.
+d
+java:S1192ø"FDefine a constant instead of duplicating this literal "wd:ID" 4 times.(´œÆÙ8óÏÊ—³.
+r
+java:S1149I"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¿ŠÂ8óÏÊ—³.
+R
+java:S1659½"/Declare "htmlCrawlFilePath" on a separate line.(Íì§ªşÿÿÿÿ8óÏÊ—³.
+:
+java:S1643ğ"Use a StringBuilder instead.(„˜ÆÍ8óÏÊ—³.
+s	java:S117ò
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù–“ªùÿÿÿÿ8óÏÊ—³.
+d
+java:S2147‰
+"FCombine this catch with the one at line 1287, which has the same body.(ï­£Ä8óÏÊ—³.
+^
+java:S1854Æ";Remove this useless assignment to local variable "srcFile".(²¯üÿÿÿÿ8óÏÊ—³.
+F
+java:S1148Í	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+„
+java:S2178ß"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ÕÑ´8óÏÊ—³.
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(ŞÅú¯úÿÿÿÿ8óÏÊ—³.
+l
+java:S1192«"IDefine a constant instead of duplicating this literal "TestUnit" 3 times.(Ÿ¨µ“üÿÿÿÿ8óÏÊ—³.
+|
+java:S1104O"ZMake screenShotName a static final constant or non-public and provide accessors if needed.(äìØİúÿÿÿÿ8óÏÊ—³.
+V
+java:S1481Æ"3Remove this unused "autoDateFormat" local variable.(úÆ·ñüÿÿÿÿ8óÏÊ—³.
+R
+java:S1481…"/Remove this unused "webElement" local variable.(¤¤àÿÿÿÿÿ8óÏÊ—³.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(ŞÓèÍúÿÿÿÿ8óÏÊ—³.
+[	java:S106ş"9Replace this use of System.out or System.err by a logger.(¼²è¯şÿÿÿÿ8óÏÊ—³.
+I
+java:S1172õ"+Remove this unused method parameter "dict".(§Ë™Ò8óÏÊ—³.
+h	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(öæˆíÿÿÿÿÿ8óÏÊ—³.
+f
+java:S2259»"HA "NullPointerException" could be thrown; "webElement" is nullable here.(ËÑÍŠ8óÏÊ—³.
+„
+java:S2178¾"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ïš¡Ü8óÏÊ—³.
+F
+java:S1148Å"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(ã€ß8óÏÊ—³.
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(¯å‹è8óÏÊ—³.
+[	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ŸÖ¯Ğùÿÿÿÿ8óÏÊ—³.
+p	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä½Œ‚øÿÿÿÿ8óÏÊ—³.
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(”åâ³8óÏÊ—³.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¸äÊÈÿÿÿÿÿ8óÏÊ—³.
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(ø†óĞıÿÿÿÿ8óÏÊ—³.
+[	java:S106Û"9Replace this use of System.out or System.err by a logger.(¥™ÉÙùÿÿÿÿ8óÏÊ—³.
+M
+java:S3740ÿ"/Provide the parametrized type for this generic.(´ÚÖ¯8óÏÊ—³.
+R
+java:S3740Š"/Provide the parametrized type for this generic.(©“öàÿÿÿÿÿ8óÏÊ—³.
+U	java:S106¦"9Replace this use of System.out or System.err by a logger.(òÀŠ}8óÏÊ—³.
+J
+java:S1659µ",Declare "targetFilePath" on a separate line.(‹©¶§8óÏÊ—³.
+Y	java:S125¸"<This block of commented-out lines of code should be removed.(ôâ¾É8óÏÊ—³.
+K
+java:S1481å"-Remove this unused "nextLine" local variable.(Œ£Ğù8óÏÊ—³.
+Y	java:S125Ò"<This block of commented-out lines of code should be removed.(¯å‹è8óÏÊ—³.
+K
+java:S1125é"(Remove the literal "true" boolean value.(ü›Çûÿÿÿÿ8óÏÊ—³.
+V	java:S106å"9Replace this use of System.out or System.err by a logger.(ïàŸÅ8óÏÊ—³.
+[	java:S106	"9Replace this use of System.out or System.err by a logger.(Ãıåúÿÿÿÿ8óÏÊ—³.
+i
+java:S2095x"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(œ—±®8óÏÊ—³.
+V	java:S106È
+"9Replace this use of System.out or System.err by a logger.(öŸó¹8óÏÊ—³.
+A
+java:S5542’"#Use secure mode and padding scheme.(Ñ×ò×8óÏÊ—³.
+w
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍóğØ8óÏÊ—³.
+d
+java:S1192K"GDefine a constant instead of duplicating this literal "driver" 3 times.(Øş·†8óÏÊ—³.
+X	java:S125f"<This block of commented-out lines of code should be removed.(ëá¹³8óÏÊ—³.
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(©ò¾8óÏÊ—³.
+•
+java:S1130õ"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(§Ë™Ò8óÏÊ—³.
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ĞáíÈ8óÏÊ—³.
+Y	java:S125–"<This block of commented-out lines of code should be removed.(¨úÉö8óÏÊ—³.
+U	java:S106Á"9Replace this use of System.out or System.err by a logger.(­ï”8óÏÊ—³.
+K
+java:S1659Ã"-Declare "intEventMessage" on a separate line.(à–Ú§8óÏÊ—³.
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(Ûé¶8óÏÊ—³.
+F
+java:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+O
+java:S1153Î"1Directly append the argument of String.valueOf().(»³êğ8óÏÊ—³.
+[	java:S106Ø
+"9Replace this use of System.out or System.err by a logger.(œíÆŞşÿÿÿÿ8óÏÊ—³.
+n	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö•í«8óÏÊ—³.
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(ïŸà8óÏÊ—³.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ƒã”½8óÏÊ—³.
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(×Ş‹ô8óÏÊ—³.
+q
+java:S2095„	"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸³•¶øÿÿÿÿ8óÏÊ—³.
+[	java:S106è"9Replace this use of System.out or System.err by a logger.(êÍÿõúÿÿÿÿ8óÏÊ—³.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(¸¡³Õ8óÏÊ—³.
+[	java:S106˜	"9Replace this use of System.out or System.err by a logger.(‘æÿûÿÿÿÿ8óÏÊ—³.
+Y	java:S125ï"<This block of commented-out lines of code should be removed.(¯å‹è8óÏÊ—³.
+U	java:S106¢"9Replace this use of System.out or System.err by a logger.(ñ›ù8óÏÊ—³.
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(Ãûñ•ûÿÿÿÿ8óÏÊ—³.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(÷‚º€8óÏÊ—³.
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(‰‰°•şÿÿÿÿ8óÏÊ—³.
+^	java:S125Â"<This block of commented-out lines of code should be removed.(œ¸Ù†úÿÿÿÿ8óÏÊ—³.
+H
+java:S2116‚"%Use "Arrays.toString(array)" instead.(·İ€–ùÿÿÿÿ8óÏÊ—³.
+R
+java:S3740Ã"/Provide the parametrized type for this generic.(»²ÿÿÿÿÿ8óÏÊ—³.
+Y	java:S125™"<This block of commented-out lines of code should be removed.(óŞà¦8óÏÊ—³.
+b
+java:S1854Í"?Remove this useless assignment to local variable "summaryDTTM".(ô®ªßşÿÿÿÿ8óÏÊ—³.
+X
+java:S1141æ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8óÏÊ—³.
+v
+java:S1450T"YRemove the "prcsStatus" field and declare it as a local variable in the relevant methods.(Ş“¦æ8óÏÊ—³.
+^	java:S125ä"<This block of commented-out lines of code should be removed.(ˆûË×ûÿÿÿÿ8óÏÊ—³.
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(ªÄ÷ñ8óÏÊ—³.
+K
+java:S1659Ì"-Declare "intEventMessage" on a separate line.(ö•í«8óÏÊ—³.
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(Á‹ê—8óÏÊ—³.
+F
+java:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+c
+java:S1858å"@"format" returns a string, there's no need to call "toString()".(Ÿœ’Øùÿÿÿÿ8óÏÊ—³.
+^	java:S125Î	"<This block of commented-out lines of code should be removed.(¼„™İúÿÿÿÿ8óÏÊ—³.
+R
+java:S3740’
+"/Provide the parametrized type for this generic.(µç¨ úÿÿÿÿ8óÏÊ—³.
+r
+java:S1192Ÿ"ODefine a constant instead of duplicating this literal "line.separator" 5 times.(Ñ°¥òıÿÿÿÿ8óÏÊ—³.
+l
+java:S2095ë
+"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(³—Ø…8óÏÊ—³.
+X	java:S125•"<This block of commented-out lines of code should be removed.(×èv8óÏÊ—³.
+[	java:S106á"9Replace this use of System.out or System.err by a logger.(ğŸëéúÿÿÿÿ8óÏÊ—³.
+V	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ÌÄë8óÏÊ—³.
+[
+java:S1854¸"=Remove this useless assignment to local variable "dimension".(èÅ û8óÏÊ—³.
+|
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔˆÃ³ÿÿÿÿÿ8óÏÊ—³.
+:
+java:S1643ü"Use a StringBuilder instead.(³¬ 8óÏÊ—³.
+M
+java:S3740ƒ"/Provide the parametrized type for this generic.(Û¶±İ8óÏÊ—³.
+:
+java:S1643ì"Use a StringBuilder instead.(öÅ‹Œ8óÏÊ—³.
+V	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(¤Ÿº¶8óÏÊ—³.
+M
+java:S3740¯"/Provide the parametrized type for this generic.(ÂÚé8óÏÊ—³.
+M
+java:S1066Š"/Merge this if statement with the enclosing one.(íÑå8óÏÊ—³.
+k
+java:S2259Ú"HA "NullPointerException" could be thrown; "webElement" is nullable here.(à¶×üÿÿÿÿ8óÏÊ—³.
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(•Ìû‘ıÿÿÿÿ8óÏÊ—³.
+@
+java:S1659 ""Declare "flag" on a separate line.(Ññµš8óÏÊ—³.
+„
+java:S2178ß"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ÕÑ´8óÏÊ—³.
+M
+java:S5411°"*Use the primitive boolean expression here.(œ„°üÿÿÿÿ8óÏÊ—³.
+M
+java:S3740ê"/Provide the parametrized type for this generic.(©÷¹Û8óÏÊ—³.
+c	java:S112Ô
+"FDefine and throw a dedicated exception instead of using a generic one.(…¿Æ™8óÏÊ—³.
+Y	java:S125¾"<This block of commented-out lines of code should be removed.(ôâ¾É8óÏÊ—³.
+o
+java:S2095m"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(òñÅÃüÿÿÿÿ8óÏÊ—³.
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(½Ã‡Şüÿÿÿÿ8óÏÊ—³.
+h	java:S112Ö"FDefine and throw a dedicated exception instead of using a generic one.(™şğİıÿÿÿÿ8óÏÊ—³.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(ß×û™8óÏÊ—³.
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(ºğèÇûÿÿÿÿ8óÏÊ—³.
+R
+java:S1481"/Remove this unused "webElement" local variable.(¤¤àÿÿÿÿÿ8óÏÊ—³.
+V	java:S106¹
+"9Replace this use of System.out or System.err by a logger.(£ñîè8óÏÊ—³.
+R
+java:S1481°"/Remove this unused "webElement" local variable.(¤¤àÿÿÿÿÿ8óÏÊ—³.
+Y	java:S125Í"<This block of commented-out lines of code should be removed.(³ô«â8óÏÊ—³.
+F
+java:S1148É"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ÉÊ™°8óÏÊ—³.
+K
+java:S1481ã"-Remove this unused "nextLine" local variable.(Œ£Ğù8óÏÊ—³.
+Q
+java:S2755’"3Disable access to external entities in XML parsing.(İ‰Ë–8óÏÊ—³.
+y
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ret".(—Õïí8óÏÊ—³.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8óÏÊ—³.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(«µÌÙ8óÏÊ—³.
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(–¯¹‰ûÿÿÿÿ8óÏÊ—³.
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(»ç–8óÏÊ—³.
+M
+java:S3740¯"/Provide the parametrized type for this generic.(¨“áä8óÏÊ—³.
+y
+java:S1192Œ"[Define a constant instead of duplicating this literal "====>Element NOT Found<===" 3 times.(˜“›É8óÏÊ—³.
+R
+java:S1066ù"/Merge this if statement with the enclosing one.(Úªúÿüÿÿÿÿ8óÏÊ—³.
+k
+java:S2259 "HA "NullPointerException" could be thrown; "webElement" is nullable here.(Ø€Û—ıÿÿÿÿ8óÏÊ—³.
+E
+java:S1659ñ""Declare "host" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+k
+java:S2259ì"HA "NullPointerException" could be thrown; "webElement" is nullable here.(ú«ˆ×üÿÿÿÿ8óÏÊ—³.
+Y	java:S125å"<This block of commented-out lines of code should be removed.(ğ£šë8óÏÊ—³.
+L
+java:S1659ñ")Declare "destination" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+j
+java:S2259Í"LA "NullPointerException" could be thrown; "getWebElement()" can return null.(«è×£8óÏÊ—³.
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(—„ƒ´8óÏÊ—³.
+^	java:S125Ü"<This block of commented-out lines of code should be removed.(î§ıÎıÿÿÿÿ8óÏÊ—³.
+V	java:S106Ù
+"9Replace this use of System.out or System.err by a logger.(¾±›8óÏÊ—³.
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(Å˜õçüÿÿÿÿ8óÏÊ—³.
+R
+java:S1659Â"/Declare "wdWebServRespFile" on a separate line.(ùæïµıÿÿÿÿ8óÏÊ—³.
+M
+java:S3740…"/Provide the parametrized type for this generic.(Ïù¹÷8óÏÊ—³.
+d	java:S899î"BDo something with the "boolean" value returned by "createNewFile".(ö†òŸıÿÿÿÿ8óÏÊ—³.
+„
+java:S2178¾"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Ïš¡Ü8óÏÊ—³.
+G
+java:S1659´"$Declare "height" on a separate line.(“·ñ˜şÿÿÿÿ8óÏÊ—³.
+X	java:S125"<This block of commented-out lines of code should be removed.(èˆùÔ8óÏÊ—³.
+^	java:S125‡"<This block of commented-out lines of code should be removed.(ñš×øşÿÿÿÿ8óÏÊ—³.
+k
+java:S2259Ú"HA "NullPointerException" could be thrown; "webElement" is nullable here.(í¶õııÿÿÿÿ8óÏÊ—³.
+V	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ŒéÆ‹8óÏÊ—³.
+M
+java:S3740è"/Provide the parametrized type for this generic.(‰ûß®8óÏÊ—³.
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(šë”ÿÿÿÿÿ8óÏÊ—³.
+H
+java:S2116˜"%Use "Arrays.toString(array)" instead.(·İ€–ùÿÿÿÿ8óÏÊ—³.
+l
+java:S2095Á"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¨º‚Ş8óÏÊ—³.
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(…¦Ü§8óÏÊ—³.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+G
+java:S1659Â"$Declare "reqXML" on a separate line.(ùæïµıÿÿÿÿ8óÏÊ—³.
+^	java:S125É"<This block of commented-out lines of code should be removed.( „ıÿÿÿÿ8óÏÊ—³.
+M
+java:S1066ç"/Merge this if statement with the enclosing one.(…•£8óÏÊ—³.
+R
+java:S3740Ì"/Provide the parametrized type for this generic.(ÌáÖ€ıÿÿÿÿ8óÏÊ—³.
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(²ğÿ—8óÏÊ—³.
+F	java:S108ß")Either remove or fill this block of code.(ÕÑ´8óÏÊ—³.
+p
+java:S2095¨"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(š¬Ì£ûÿÿÿÿ8óÏÊ—³.
+R
+java:S3740œ"/Provide the parametrized type for this generic.(£‰Åøÿÿÿÿ8óÏÊ—³.
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(¤Ÿº¶8óÏÊ—³.
+h	java:S112¼
+"FDefine and throw a dedicated exception instead of using a generic one.(™şğİıÿÿÿÿ8óÏÊ—³.
+k	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ã·º8óÏÊ—³.
+V
+java:S1197™"8Move the array designator from the variable to the type.(‡İ£û8óÏÊ—³.
+i
+java:S1854Î"FRemove this useless assignment to local variable "summaryExecTimeStr".(Æ¢äÎıÿÿÿÿ8óÏÊ—³.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(‹ñõ’8óÏÊ—³.
+h
+java:S3027Ì"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ÓË£Ğ8óÏÊ—³.
+R
+java:S3740Ã"/Provide the parametrized type for this generic.(»²ÿÿÿÿÿ8óÏÊ—³.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(¥Ìàò8óÏÊ—³.
+Z
+java:S1854ã"<Remove this useless assignment to local variable "nextLine".(Œ£Ğù8óÏÊ—³.
+[	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ÓÒ‡ôúÿÿÿÿ8óÏÊ—³.
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(Ÿıµ«ÿÿÿÿÿ8óÏÊ—³.
+h
+java:S1192K"KDefine a constant instead of duplicating this literal "prcsSeqNum" 4 times.(Øş·†8óÏÊ—³.
+d
+java:S1192 "FDefine a constant instead of duplicating this literal "NORUN" 3 times.(–‰ï8óÏÊ—³.
+X	java:S125C"<This block of commented-out lines of code should be removed.(«ôÅÈ8óÏÊ—³.
+F
+java:S1148Ğ	"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(¾É‰Ğüÿÿÿÿ8óÏÊ—³.
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(©¼æôÿÿÿÿÿ8óÏÊ—³.
+T
+java:S1144Ë"1Remove this unused private "GetIntStatus" method.(õõãúÿÿÿÿÿ8óÏÊ—³.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(•¬¨şùÿÿÿÿ8óÏÊ—³.
+c	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.(ìüğş8óÏÊ—³.
+b
+java:S1854Ü"?Remove this useless assignment to local variable "classLoader".(¹ÌíÍÿÿÿÿÿ8óÏÊ—³.
+M
+java:S3740­"/Provide the parametrized type for this generic.(¾™„³8óÏÊ—³.
+S
+java:S1144ÿ"0Remove this unused private "submitEvent" method.(ÍØØ³úÿÿÿÿ8óÏÊ—³.
+U
+java:S1481¡"2Remove this unused "shortErrorMsg" local variable.(½Û‘¡ûÿÿÿÿ8óÏÊ—³.
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(«–»°8óÏÊ—³.
+o
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(†¦À8óÏÊ—³.
+R
+java:S3740¿"/Provide the parametrized type for this generic.(Ü¹ÿÒıÿÿÿÿ8óÏÊ—³.
+M
+java:S1066ï"/Merge this if statement with the enclosing one.(ÃòåÈ8óÏÊ—³.
+M
+java:S3740ù"/Provide the parametrized type for this generic.(Ÿª¯8óÏÊ—³.
+:
+java:S1643Î"Use a StringBuilder instead.(»³êğ8óÏÊ—³.
+G
+java:S1659Ö"$Declare "upload" on a separate line.(ş„çøÿÿÿÿ8óÏÊ—³.
+I
+java:S1075ø"&Remove this hard-coded path-delimiter.(¡ÛÉ‰üÿÿÿÿ8óÏÊ—³.
+V	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ß®†8óÏÊ—³.
+„
+java:S1488‚"aImmediately return this expression instead of assigning it to the temporary variable "secretKey".(¨º²Íıÿÿÿÿ8óÏÊ—³.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(Ÿ¥··úÿÿÿÿ8óÏÊ—³.
+?
+java:S1659Ì"!Declare "url" on a separate line.(ö•í«8óÏÊ—³.
+V
+java:S2755¾"3Disable access to external entities in XML parsing.( Ÿ—ãûÿÿÿÿ8óÏÊ—³.
+|
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔˆÃ³ÿÿÿÿÿ8óÏÊ—³.
+š
+java:S1130‹"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ó™ú÷şÿÿÿÿ8óÏÊ—³.
+X	java:S125¨"<This block of commented-out lines of code should be removed.(Æıİ%8óÏÊ—³.
+V
+java:S2755˜"3Disable access to external entities in XML parsing.(ùï’Ìüÿÿÿÿ8óÏÊ—³.
+ƒ
+java:S4144Ø"`Update this method so that its implementation is not identical to "storeBindValue" on line 2236.(ß¹€¿ÿÿÿÿÿ8óÏÊ—³.
+[	java:S106Ú
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8óÏÊ—³.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(…ŸêÄùÿÿÿÿ8óÏÊ—³.
+V	java:S106ù"9Replace this use of System.out or System.err by a logger.(Á¨Å™8óÏÊ—³.
+X	java:S125È"<This block of commented-out lines of code should be removed.(€ïã8óÏÊ—³.
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(Ğ¯èÄ8óÏÊ—³.
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ö¬õ¼8óÏÊ—³.
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(½‘Ñ³8óÏÊ—³.
+k
+java:S2259Š"HA "NullPointerException" could be thrown; "webElement" is nullable here.(ŸåûÊøÿÿÿÿ8óÏÊ—³.
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(ªİÿ«ıÿÿÿÿ8óÏÊ—³.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ğİÜ›øÿÿÿÿ8óÏÊ—³.
+V	java:S106¼"9Replace this use of System.out or System.err by a logger.(ˆıˆ§8óÏÊ—³.
+{
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(óòÆ‡úÿÿÿÿ8óÏÊ—³.
+R
+java:S1481ö"/Remove this unused "webElement" local variable.(¤¤àÿÿÿÿÿ8óÏÊ—³.
+^	java:S125Ö"<This block of commented-out lines of code should be removed.(áá•ûÿÿÿÿ8óÏÊ—³.
+d
+java:S1192K"GDefine a constant instead of duplicating this literal "match" 24 times.(Øş·†8óÏÊ—³.
+I
+java:S1659ñ"&Declare "password" on a separate line.(á¥°õûÿÿÿÿ8óÏÊ—³.
+v
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓŸœN8óÏÊ—³.
+F
+java:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+^	java:S125®"<This block of commented-out lines of code should be removed.(°„ªøÿÿÿÿ8óÏÊ—³.
+[	java:S106Ç"9Replace this use of System.out or System.err by a logger.(³Ğ­™øÿÿÿÿ8óÏÊ—³.
+K
+java:S3740I"/Provide the parametrized type for this generic.(¿ŠÂ8óÏÊ—³.
+^
+java:S1854”";Remove this useless assignment to local variable "process".(¹—øÿÿÿÿ8óÏÊ—³.
+u
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(õõãúÿÿÿÿÿ8óÏÊ—³.
+V	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ê™òò8óÏÊ—³.
+L
+java:S3740¡"/Provide the parametrized type for this generic.(İâãE8óÏÊ—³.
+N
+java:S1172„"+Remove this unused method parameter "dict".(—ÿÀĞşÿÿÿÿ8óÏÊ—³.
+q
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(½¶Éüÿÿÿÿ8óÏÊ—³.
+R
+java:S3740–"/Provide the parametrized type for this generic.(Å¢Åôúÿÿÿÿ8óÏÊ—³.
+U	java:S106¡
+"9Replace this use of System.out or System.err by a logger.(ØÎ§q8óÏÊ—³.
+H
+java:S2116€"%Use "Arrays.toString(array)" instead.(Úï‡˜üÿÿÿÿ8óÏÊ—³.
+K
+java:S1481ß"(Remove this unused "str" local variable.(¸ùº§úÿÿÿÿ8óÏÊ—³.
+M
+java:S3740œ"/Provide the parametrized type for this generic.(ëÁşİ8óÏÊ—³.
+U
+java:S1068X"3Remove this unused "workdayIntEvent" private field.(›°âÏşÿÿÿÿ8óÏÊ—³.
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(«Ê«éûÿÿÿÿ8óÏÊ—³.
+Y	java:S125à"<This block of commented-out lines of code should be removed.(¡½§Ÿ8óÏÊ—³.
+Y	java:S125×"<This block of commented-out lines of code should be removed.(ÉÖöì8óÏÊ—³.
+U	java:S106ß"9Replace this use of System.out or System.err by a logger.(ºì¿8óÏÊ—³.
+^	java:S125×"<This block of commented-out lines of code should be removed.(¥Ûëşÿÿÿÿ8óÏÊ—³.
+F
+java:S1148ˆ
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8óÏÊ—³.
+V	java:S106û"9Replace this use of System.out or System.err by a logger.(ë­«·8óÏÊ—³.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(´şöŞ8óÏÊ—³.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(‘æÿûÿÿÿÿ8óÏÊ—³.
+}
+java:S1149Õ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒ³È8óÏÊ—³.
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(Õ™—Úÿÿÿÿÿ8óÏÊ—³.
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(¶»¬Û8óÏÊ—³.
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(¾ß°‰8èœ³.
